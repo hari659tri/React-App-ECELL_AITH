@@ -47,7 +47,7 @@ function DarkBg(props) {
                             // cls="one"
                             linkedin=""
                         /> */}
-                        <img src={`assets/Board/Vidhya.jpeg`} height={200} alt="Vidhya S" />
+                        <img src={`assets/Board/rohit.jpg`} height={200} alt="Rohit Sharma" />
                     </div>
                     <div className='rightText'>
                         <p className="content" data-aos="zoom-in" data-aos-offset="-20">{props.faculty}</p>

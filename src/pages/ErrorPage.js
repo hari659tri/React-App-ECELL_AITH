@@ -28,7 +28,7 @@ function ErrorPage() {
 				<div className="col-12">
 					<span className="iia">You seem to have lost</span>
 					<span className="head">{head}</span>
-					<span className="vit">VIT VELLORE</span>
+					<span className="vit">AITH KANPUR</span>
 					<span className="down">
 						<Link to="/">
 							<button className="redirectbtn">Back to Home</button>

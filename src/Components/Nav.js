@@ -33,8 +33,8 @@ function Nav() {
   };
   return (
     <div className={`topnav ${scrolled}`}>
-      <img src="/assets/Logos/ecell-white.png" alt="E-cell VIT" height="45" />
-      {/* <Link to="gallery" spy={true} smooth='easeInOutQuad' offset={0} duration={durationFn}>Gallery</Link> */}
+      <img src="/assets/Logos/ecell-white.png" alt="E-cell AITH" height="120" />
+      <Link to="gallery" target="_blank" spy={true} smooth='easeInOutQuad' offset={0} duration={durationFn}>Gallery</Link>
       <Link
         to="team"
         spy={true}

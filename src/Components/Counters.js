@@ -17,10 +17,10 @@ function Counter(props) {
 function Counters() {
     return (
         <div className="d-flex">
-            <Counter count="5000" spec="students" />
-            <Counter count="289" spec="start ups" />
-            <Counter count="210" spec="mentors" />
-            <Counter count="100" spec="incubatees" />
+            <Counter count="1000" spec="students" />
+            <Counter count="150" spec="start ups" />
+            <Counter count="200" spec="mentors" />
+            <Counter count="50" spec="incubatees" />
         </div>
     );
 }

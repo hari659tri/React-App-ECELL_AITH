@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Nav from "../Components/Nav";
 import Social from "../Components/Social";
-import { Link } from "react-scroll";
+// import { Link } from "react-scroll";
 
 function Landing() {
   const [head, setHead] = useState("Entrepreneurship Cell");
@@ -31,22 +31,24 @@ function Landing() {
         <Nav />
         <Social position="top" />
         <div className="col-12">
-          <span className="iia">IDEATE. INNOVATE. ACTUATE.</span>
+          <span className="iia">INSPIRE. INNOVATE. EMPOWER
+          </span>
           <span className="head">{head}</span>
-          <span className="vit">VIT VELLORE</span>
+          <span className="vit">Dr. Ambedkar Institute of Technology for Handicapped</span>
           <span className="down">
             <a
-              href="https://esummit.ecellvit.com"
+              href="https://aith.ac.in/"
               target="_blank"
               rel="noreferrer"
             >
               <button className="redirectbtn">
-                E-Summit <i class="fas fa-external-link-alt"></i>
+              Our Campus <i class="fas fa-external-link-alt"></i>
               </button>
             </a>
           </span>
         </div>
-        <Link
+
+        {/* <Link
           className="scrolldown"
           to="about"
           spy={true}
@@ -54,8 +56,8 @@ function Landing() {
           offset={0}
           duration={800}
         >
-          Scroll Down <i className="fa fa-angle-right"></i>
-        </Link>
+         <i className="fa fa-angle-right"></i>
+        </Link> */}
       </div>
     </div>
   );

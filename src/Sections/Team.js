@@ -19,6 +19,11 @@ function Board(props) {
               <a href={props.linkedin}>
                 <i className="fab fa-linkedin"></i>
               </a>
+              <a href={props.instagram} target="_blank" rel="noopener noreferrer">
+                <i className="fab fa-instagram"></i>
+              </a>
+
+              
             </div>
           </div>
         </div>
@@ -35,105 +40,116 @@ function Team() {
       <DarkBg head="Team" />
       <div className="team">
         <Board
-          name="Shrishail Chavadi"
-          designation="Chairperson"
-          pic="Shrishail"
+          name="Abhishek Singh"
+          designation="OVERALL CORDINATORS"
+          pic="Abhishek"
           cls="one"
-          linkedin="https://www.linkedin.com/in/shrishailchavadi"
+          linkedin="https://www.linkedin.com/in/abhishek-singh-4052a6229/"
+          instagram="https://www.instagram.com/_abhishek_singh2121/" // Add Instagram URL
         />
 
         <Board
-          name="Anannya Chuli"
-          designation="Vice Chairperson"
-          pic="Anannya"
-          cls="two"
-          linkedin="https://www.linkedin.com/in/anannya-chuli-242235203/"
-        />
-        <Board
-          name="Kishika Malhotra"
-          designation="Secretary"
-          pic="Kishika"
-          cls="two"
-          linkedin="https://www.linkedin.com/in/kishika-malhotra-7903a31b9"
-        />
-        <Board
-          name="Sai Himabindu Edara"
-          designation="Management Head"
-          pic="Bindu"
-          cls="two"
-          linkedin="https://www.linkedin.com/in/himabindu-edara-110531202"
-        />
-        <Board
-          name="M S Mihir"
-          designation="Editorial Head"
-          pic="Mihir"
-          cls="two"
-          linkedin="https://www.linkedin.com/in/m-s-mihir-9456bb1b8"
-        />
-        <Board
-          name="Shreyansh Singh Chouhan"
-          designation="Design Head"
-          pic="Shreyansh"
+          name="Manjeet singh"
+          designation="OVERALL CORDINATORS"
+          pic="Manjeeet"
           cls="three"
-          linkedin="https://www.linkedin.com/in/shreyansh-singh-chouhan-0b91521b4"
+          linkedin="https://www.linkedin.com/in/manjeet-s-7860b5242"
+          instagram="https://www.instagram.com/manjeet_singh.10/"
         />
         <Board
-          name="M Palanikannan"
-          designation="Technical Head"
-          pic="Palanikannan"
+          name="Sakshi Pandey"
+          designation="Mentor(Finance&PR)"
+          pic="Sakashi"
           cls="three"
-          linkedin="https://www.linkedin.com/in/m-palanikannan-021822200/"
+          linkedin="https://www.linkedin.com/in/sakshi-pandey-34102622a"
+          instagram="https://www.instagram.com/p.sakshi58/"
+          
         />
         <Board
-          name="Pranit Modi"
-          designation="Outreach Head"
-          pic="Pranit"
+
+          name="Stuti Chaudhary"
+          designation="Mentor(events&ISC_Core)"
+          pic="stuti"
           cls="three"
-          linkedin="https://www.linkedin.com/in/pranitmodi"
+           linkedin="https://www.linkedin.com/in/stuti-chaudhary-051875241/"
+           instagram="https://www.instagram.com/stuti_510"
+        />
+        <Board
+          name="Arpit Shakya"
+          designation="Mentor(EVENT&ISC)"
+          pic="arpit"
+          cls="three"
+          linkedin="https://www.linkedin.com/in/arpit-shakya-2972b6190/"
+          instagram="https://www.instagram.com/arpit.shakya23/"
+        />
+        <Board
+          name="Sanidhya Shukla"
+          designation="Mentor(Operations)"
+          pic="sandihya"
+          cls="three"
+          linkedin="https://www.linkedin.com/in/sanidhyashukla22"
+          instagram="https://www.instagram.com/sanidhya._.shukla/"
+        />
+        <Board
+          name="Ashutosh Patel"
+          designation="Mentor(graphic&Video editing)"
+          pic="asutosh"
+          cls="three"
+          linkedin="https://www.linkedin.com/in/ashutosh-patel-162264237/"
+          instagram="https://www.instagram.com/ashutoshpatel7634/"
+        />
+        <Board
+         name="Harikesh Tripathi"
+          designation="Head(Tech&Research)"
+          pic="harikesh"
+          cls="three"
+          linkedin="https://www.linkedin.com/in/harikesh-tripathi-7841a0181/"
+          instagram="https://www.instagram.com/harikesh9722/"
         />
 
         <Board
-          name="Yuvraj Aaditya Arya"
-          designation="Research and Development Head"
-          pic="Yuvraj"
+          name="Satyam Pandey"
+          designation="Head(Graphic)"
+          pic="satyam"
           cls="three"
-          linkedin="https://www.linkedin.com/in/yuvraj-aaditya-arya01"
+          linkedin="https://www.linkedin.com/in/satyam-pandey-44493b241/"
+          instagram="https://www.instagram.com/_satyam.pandey___01/"
+        />
+
+        <Board
+          name="Manu Omar "
+          designation="Head(Operation&Management)"
+          pic="manu"
+          cls="three"
+          linkedin="https://www.linkedin.com/in/manu-omar-b802591b9"
+          instagram="https://www.instagram.com/manuomar8/"
         />
         <Board
-          name="Rahul Agarwal"
-          designation="Collaborations Head"
-          pic="Rahul"
+          name="Ansh Sharma"
+          designation="Head(Social_Media)"
+          pic="Ansh sharma"
           cls="three"
-          linkedin="https://www.linkedin.com/in/rahul-agarwal-3212401ba/"
+          linkedin="https://www.linkedin.com/in/ansh-sharma-645784273"
+          instagram="https://www.instagram.com/anshsharma1074/"
         />
         <Board
-          name="Shubhankar Gulati"
-          designation="Finance Head"
-          pic="Shubhankar"
+          name="Rakesh Kr. Bind"
+          designation="Head(Content_Writer)"
+          pic="Rakesh Kumar"
           cls="three"
-          linkedin="https://www.linkedin.com/in/shubhankar-gulati-62507a1ab"
+          linkedin="https://www.linkedin.com/in/rakesh-kr-bind-a08aab24b"
+          instagram="https://www.instagram.com/roc_se06_23/"
         />
         <Board
-          name="Pratham Sharma"
-          designation="Sponsorship Head"
-          pic="Pratham"
+          name="Abhay Tiwari"
+          designation="Head(Head&Video_editing)"
+          pic="Abhay"
           cls="three"
-          linkedin="https://www.linkedin.com/in/pratham-sharma-568794204"
+          linkedin="https://www.linkedin.com/in/abhay-tiwari-89a507256/"
+          instagram="http://instagram.com/_abhay_tiwari_pvt"
         />
-        <Board
-          name="Harish R"
-          designation="External Affairs Head"
-          pic="Harish"
-          cls="three"
-          linkedin="https://www.linkedin.com/in/harish-r-351719175"
-        />
-        <Board
-          name="Snigdha Singh"
-          designation="Public Relations Head"
-          pic="Snigdha"
-          cls="three"
-          linkedin="https://www.linkedin.com/in/snigdha-singh-0749a0202"
-        />
+        
+        
       </div>
     </div>
   );

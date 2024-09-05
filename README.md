@@ -1,18 +1,9 @@
-# Entrepreneurship Cell - VIT
-
-[![Website](https://img.shields.io/badge/Website-Live-Blueviolet?style=for-the-badge&logo=appveyor&color=blueviolet)](https://ecellvit.com)
-
-The official portal of E-cell VIT.
-
-## Screenshots
-![image](https://user-images.githubusercontent.com/24913006/102004964-5c8c5e80-3d3b-11eb-95a2-d1709413d240.png)
-
-## Contributers
-+ <a href="https://github.com/gvinayakgupta">Vinayak Gupta</a>
-+ <a href="https://github.com/vinamrak">Vinamra Khoria</a>
+## Contributer 
+only  harikesh tripathi to build this site....
++ <a href="https://github.com/hari659tri">Harikesh Tripathi</a>
 
 ## Get Started
-After cloning
+After cloning by cd clone link of code url then change the directory to main code file after that check npm version the run npm  start, if node.js not installed then install node.js which contain's the npm  version also..... 
 
 + `npm install`
 
