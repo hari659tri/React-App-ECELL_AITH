@@ -59,7 +59,7 @@ function Team() {
         <Board
           name="Sakshi Pandey"
           designation="Mentor(Finance&PR)"
-          pic="Sakashi"
+          pic="sakashi"
           cls="three"
           linkedin="https://www.linkedin.com/in/sakshi-pandey-34102622a"
           instagram="https://www.instagram.com/p.sakshi58/"

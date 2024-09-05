@@ -74,7 +74,7 @@ function GalleryPics() {
         '/assets/Gallery/ecell3.jpg',
 		'/assets/Gallery/ecell4.jpg',
 		'/assets/Gallery/ecell5.jpg',
-		'/assets/Gallery/ecell6.jpg',
+		'/assets/Gallery/Ecell6.jpg',
 
     ];
 
