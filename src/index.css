@@ -411,7 +411,7 @@ html {
   }
   .bottom a {
     display: inline-block;
-    background-color: #8143fa;
+    background-color: #bd9f67;
     width: 6vw;
     height: 6vw;
     padding: 4px;
@@ -499,7 +499,7 @@ html {
   left: 0;
   opacity: 1;
   z-index: 100;
-  background-color: #5d3f9b;
+  background-color: #bd9f67;
   height: 100%;
   width: 100vw;
   transition: all 1s ease-in-out;
@@ -1063,7 +1063,7 @@ loading
   bottom: 100%;
   left: 0;
   right: 0;
-  background-color: #8141fa33;
+  background-color: #bd9f67;
   color: #ffffff;
   overflow: hidden;
   width: 100%;
@@ -1077,7 +1077,7 @@ loading
 }
 
 .g_imgs:hover {
-  box-shadow: 0 0 20px #181327;
+  box-shadow: 0 0 20px #bd9f67;
 }
 
 .g_imgs:hover img {

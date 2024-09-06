@@ -142,7 +142,7 @@ function Team() {
         />
         <Board
           name="Abhay Tiwari"
-          designation="Head(Head&Video_editing)"
+          designation="Head(Graphics&Video_editing)"
           pic="Abhay"
           cls="three"
           linkedin="https://www.linkedin.com/in/abhay-tiwari-89a507256/"
