@@ -34,7 +34,7 @@ function Landing() {
           <span className="iia">INSPIRE. INNOVATE. EMPOWER
           </span>
           <span className="head">{head}</span>
-          <span className="vit">Dr. Ambedkar Institute of Technology for Handicapped</span>
+          <span className="vit">Dr. Ambedkar Institute of Technology for Divyangjan</span>
           <span className="down">
             <a
               href="https://aith.ac.in/"
