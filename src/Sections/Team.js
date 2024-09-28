@@ -74,6 +74,16 @@ function Team() {
            linkedin="https://www.linkedin.com/in/stuti-chaudhary-051875241/"
            instagram="https://www.instagram.com/stuti_510"
         />
+
+        <Board
+          name="Raj Upadhya"
+          designation="Mentor(Graphic&ISC)"
+          pic="rajj"
+          cls="three"
+          linkedin="https://www.linkedin.com/in/raj-upadhyay-9a7186224?"
+          instagram="https://www.instagram.com/razz_pandit_22?igsh=YWQxeG52dDhtMG8w"
+        />
+
         <Board
           name="Arpit Shakya"
           designation="Mentor(EVENT&ISC)"
@@ -98,6 +108,7 @@ function Team() {
           linkedin="https://www.linkedin.com/in/ashutosh-patel-162264237/"
           instagram="https://www.instagram.com/ashutoshpatel7634/"
         />
+        
         <Board
          name="Harikesh Tripathi"
           designation="Head(Tech&Research)"
